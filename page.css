@@ -1,42 +1,18 @@
-#grid {
-	display: grid;
-	grid-template-areas:
-		"head head head"
-		"nav article empty"
-		"nav foot empty";
-	grid-template-rows: 10% 1fr 10%;
-	grid-template-columns: 10% 1fr 10%;
-	grid-gap: 2px;
-	height: 100vh;
-	margin: 0;
-	background-color: #707070;
-	color: #d0d0d0;
+.navbar {
+	background-color: #0a7;
 }
 
-#layout {
-	background: #202020;
-	padding: 1em;
+.nav-link,
+.navbar-brand {
+	color: #fff;
 }
 
-.head {
-	grid-area: head;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+.navbar-collapse {
+	justify-content: flex-end;
 }
 
-.foot {
-	grid-area: foot;
+.footer{
+	background-color: #222;
+	color: white;
 }
 
-.article {
-	grid-area: article;
-}
-
-.nav {
-	grid-area: nav;
-}
-
-.empty {
-	grid-area: empty;
-}
