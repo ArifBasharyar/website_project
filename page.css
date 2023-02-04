@@ -1,8 +1,8 @@
-.navbar {
+/* .navbar {
 	background-color: #0a7;
-}
+} */
 
-.nav-link,
+/* .nav-link,
 .navbar-brand {
 	color: #fff;
 }
@@ -14,5 +14,29 @@
 .footer{
 	background-color: #222;
 	color: white;
-}
+} */
 
+
+/* 
+<!-- stop -->
+<!-- <div class="bg-dark text-secondary py-5 text-center">
+	<h1 class="display-5 fw-bold text-white">Dark mode hero</h1>
+	<div class="col-lg-6 mx-auto">
+		<p class="fs-5">Quickly design and customize responsive mobile-first sites with Bootstrap, the
+			world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive
+			grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+
+	</div>
+</div> --> */
+/* 
+
+<!-- <section class="col-lg-4 col-md-4 col-sm-12">
+<h3>Contact us!</h3>
+<div class="form-group">
+	<input type="text" class="form-control m-1" placeholder="Enter full name" name="name" />
+	<input type="email" class="form-control m-1" placeholder="Enter email address" name="email" />
+	<textarea name="form-control m-1" cols="30" rows="5">This does nothing</textarea>
+	<input type="submit" class="btn btn-dark m-1" value="Send" />
+	<p>This does nothing :)</p>
+</div>
+</section> --> */
